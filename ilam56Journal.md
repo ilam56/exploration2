@@ -1,5 +1,8 @@
 # Exploration 2 Journal
 
+## Link
+https://www.ilam56.com/exploration2/
+
 ## Basic Description
 The project is a basic survey. The user can go to the page and answer 5 different questions on the survey. After the user has filled out the survey he can submit it and be taken to a results page. This page highlights the user's last submitted answers and populates the page such that beside each answer is the count of how many times that answer has been picked. It accomplishes this by use of a MongoDB database accessed though a NodeJS back-end. The database stores all the survey results, and when the view page loads, it counts those results so they can be displayed on the page.
 
